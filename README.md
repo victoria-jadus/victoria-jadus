@@ -1,5 +1,8 @@
-## Hi there 👋
+## About Me 👋
 
+Hello! My name is Victoria Jadus, and I recently graduated with a Master of Engineering in Biomedical Engineering from Rensselaer Polytechnic Institute. I am passionate about developing technologies that improve patient care through medical devices, biotechnology, and pharmaceutical innovation.
+
+My experience spans medical device design, process development, tissue engineering, and biomedical research. Through academic projects, laboratory research, and industry experience at Regeneron Pharmaceuticals, I have developed strong skills in experimental design, technical problem solving, data analysis, and cross-functional collaboration. I enjoy tackling complex engineering challenges and translating scientific concepts into practical healthcare solutions.
 <!--
 **victoria-jadus/victoria-jadus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
